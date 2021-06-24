@@ -1,0 +1,8 @@
+) npm install (installs all dev dependencies)
+) npm start (runs the live-server)
+
+) Make your html sections, color them with css so you can visually see the positioning of each
+) build the grid using rem / vw / vh / % / min-content / max-content
+
+
+EMIT .feature{feature $}*6
